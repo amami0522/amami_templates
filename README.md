@@ -1,4 +1,5 @@
-# GitHubに慣れる練習を兼ねて競プロのテンプレートを作成しました
+# amami_template
+GitHubに慣れる練習を兼ねて競プロのテンプレートを作成しました
 
 ## 一覧
 - [テンプレート](https://github.com/amami0522/amami_templates/blob/master/template.cpp)
