@@ -9,3 +9,4 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [素因数分解](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
 - [グリッドBFS](https://github.com/amami0522/amami_templates/blob/master/BFS(grid).cpp)
 - [文字列置換](https://github.com/amami0522/amami_templates/blob/master/replace_string.cpp)
+- [約数列挙](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
