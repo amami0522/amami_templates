@@ -14,3 +14,4 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [最長増加部分列](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
 - [部分文字列探索](https://github.com/amami0522/amami_templates/blob/master/substring_search.cpp)
 - [ワーシャルフロイド](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
+- [繰り返し2乗法](https://github.com/amami0522/amami_templates/blob/master/powmod.cpp)
