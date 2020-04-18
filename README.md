@@ -18,6 +18,7 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 ### 探索
 - [	bit全探索](https://github.com/amami0522/amami_templates/blob/master/bit_zenntannsaku.cpp)
 - [グリッドBFS](https://github.com/amami0522/amami_templates/blob/master/BFS(grid).cpp)
+- [DFS(深さ優先探索)](https://github.com/amami0522/amami_templates/blob/master/DFS.cpp)
 ### その他
 - [	UnionFind](https://github.com/amami0522/amami_templates/blob/master/union_find)
 - [最長増加部分列](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
