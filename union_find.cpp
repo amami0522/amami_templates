@@ -1,6 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
 struct UnionFind {
 	vector<long long> par;
 	UnionFind(long long size):par(size+1,-1){}
@@ -24,13 +21,3 @@ struct UnionFind {
 		return -par[root(x)];
 	}
 };
-
-/*
-example
-
-UnionFind tree(size);    で初期化
-tree.unite(a,b);         で連結
-tree.same(a,b);          で同集合かの判定
-tree.size(a);            で集合の大きさ
-
-*/
