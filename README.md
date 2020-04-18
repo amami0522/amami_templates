@@ -11,3 +11,4 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [文字列置換](https://github.com/amami0522/amami_templates/blob/master/replace_string.cpp)
 - [約数列挙](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
 - [二部グラフ判定](https://github.com/amami0522/amami_templates/blob/master/is_bipartite_graph.cpp)
+- [最長増加部分列](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
