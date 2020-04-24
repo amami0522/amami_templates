@@ -7,11 +7,13 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [素因数分解](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
 - [約数列挙](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
 - [繰り返し2乗法](https://github.com/amami0522/amami_templates/blob/master/powmod.cpp)
+- [nCr(二項係数テーブル)](https://github.com/amami0522/amami_templates/blob/master/nCr.cpp)
 ### 文字列
 - [文字列置換](https://github.com/amami0522/amami_templates/blob/master/replace_string.cpp)
 - [部分文字列探索](https://github.com/amami0522/amami_templates/blob/master/substring_search.cpp)
 ### グラフ
-- [ワーシャルフロイド](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
+- [ダイクストラ法](https://github.com/amami0522/amami_templates/blob/master/dijkstra.cpp)
+- [ワーシャルフロイド法](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
 - [二部グラフ判定](https://github.com/amami0522/amami_templates/blob/master/is_bipartite_graph.cpp)
 ### 探索
 - [	bit全探索](https://github.com/amami0522/amami_templates/blob/master/bit_zenntannsaku.cpp)
