@@ -4,16 +4,16 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 ## 一覧
 ### 数学
 - [	最大公約数(GCD),最小公倍数(LCM)](https://github.com/amami0522/amami_templates/blob/master/GCD_LCM.cpp)
-- [素因数分解](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
-- [約数列挙](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
-- [繰り返し2乗法](https://github.com/amami0522/amami_templates/blob/master/powmod.cpp)
+- [素因数分解 O(logN)](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
+- [約数列挙 O(logN)](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
+- [繰り返し2乗法 O(logN)](https://github.com/amami0522/amami_templates/blob/master/powmod.cpp)
 - [nCr(二項係数テーブル)](https://github.com/amami0522/amami_templates/blob/master/nCr.cpp)
 ### 文字列
 - [文字列置換](https://github.com/amami0522/amami_templates/blob/master/replace_string.cpp)
 - [部分文字列探索](https://github.com/amami0522/amami_templates/blob/master/substring_search.cpp)
 ### グラフ
-- [ダイクストラ法](https://github.com/amami0522/amami_templates/blob/master/dijkstra.cpp)
-- [ワーシャルフロイド法](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
+- [単一始点最短路(dijkstra) O(NlogN)](https://github.com/amami0522/amami_templates/blob/master/dijkstra.cpp)
+- [全点対間最短路(warshalfloid) O(N^3)](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
 - [二部グラフ判定](https://github.com/amami0522/amami_templates/blob/master/is_bipartite_graph.cpp)
 ### 探索
 - [	bit全探索](https://github.com/amami0522/amami_templates/blob/master/bit_zenntannsaku.cpp)
