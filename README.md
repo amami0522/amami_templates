@@ -4,8 +4,9 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 ## 一覧
 ### 数学
 - [	最大公約数(GCD),最小公倍数(LCM)](https://github.com/amami0522/amami_templates/blob/master/GCD_LCM.cpp)
-- [素因数分解 O(logN)](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
-- [約数列挙 O(logN)](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
+- [素数判定](https://github.com/amami0522/amami_templates/blob/master/is_prime.cpp)
+- [素因数分解 O(sqrt(N))](https://github.com/amami0522/amami_templates/blob/master/prime_factorization.cpp)
+- [約数列挙 O(sqrt(N))](https://github.com/amami0522/amami_templates/blob/master/divisor.cpp)
 - [繰り返し2乗法 O(logN)](https://github.com/amami0522/amami_templates/blob/master/powmod.cpp)
 - [nCr(二項係数テーブル)](https://github.com/amami0522/amami_templates/blob/master/nCr.cpp)
 - [nCr(mod prime with mint)](https://github.com/amami0522/amami_templates/blob/master/nCr(mod%20prime%20with%20mint).cpp)
