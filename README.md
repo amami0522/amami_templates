@@ -19,6 +19,7 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [全点対間最短路(warshalfloid) O(V^3)](https://github.com/amami0522/amami_templates/blob/master/WarshalFroid.cpp)
 - [二部グラフ判定](https://github.com/amami0522/amami_templates/blob/master/is_bipartite_graph.cpp)
 - [最小全域木(kruskal)](https://github.com/amami0522/amami_templates/blob/master/kruskal.cpp)
+- [最小全域木(prim)](https://github.com/amami0522/amami_templates/blob/master/prim.cpp)
 ### 探索
 - [	bit全探索](https://github.com/amami0522/amami_templates/blob/master/bit_zenntannsaku.cpp)
 - [グリッドBFS](https://github.com/amami0522/amami_templates/blob/master/BFS(grid).cpp)
