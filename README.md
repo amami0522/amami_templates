@@ -26,3 +26,4 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [	UnionFind](https://github.com/amami0522/amami_templates/blob/master/union_find.cpp)
 ### その他
 - [最長増加部分列](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
+- [ModInt](https://github.com/amami0522/amami_templates/blob/master/modint.cpp)
