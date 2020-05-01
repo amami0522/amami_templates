@@ -13,6 +13,7 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 ### 文字列
 - [文字列置換](https://github.com/amami0522/amami_templates/blob/master/replace_string.cpp)
 - [部分文字列探索](https://github.com/amami0522/amami_templates/blob/master/substring_search.cpp)
+- [最長共通部分列(LCS)](https://github.com/amami0522/amami_templates/blob/master/LCS.cpp)
 ### グラフ
 - [単一始点最短路(bellman_ford) O(VE)](https://github.com/amami0522/amami_templates/blob/master/bellman_ford.cpp)
 - [単一始点最短路(dijkstra) O((V+E)logV)](https://github.com/amami0522/amami_templates/blob/master/dijkstra.cpp)
@@ -27,5 +28,5 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 ### 集合
 - [	UnionFind](https://github.com/amami0522/amami_templates/blob/master/union_find.cpp)
 ### その他
-- [最長増加部分列](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
+- [最長増加部分列(LIS)](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
 - [ModInt](https://github.com/amami0522/amami_templates/blob/master/modint.cpp)
