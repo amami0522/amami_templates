@@ -29,5 +29,8 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [	UnionFind](https://github.com/amami0522/amami_templates/blob/master/union_find.cpp)
 ### その他
 - [最長増加部分列(LIS)](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
+- [最小共通祖先(LCA)](https://github.com/amami0522/amami_templates/blob/master/LCA.cpp)
 - [ModInt](https://github.com/amami0522/amami_templates/blob/master/modint.cpp)
-- [Segment-Tree](https://github.com/amami0522/amami_templates/blob/master/SegmentTree.cpp)
+- [RSQ(Segment-Tree)](https://github.com/amami0522/amami_templates/blob/master/SegmentTree.cpp)
+- [木の直径](https://github.com/amami0522/amami_templates/blob/master/tree_diameter.cpp)
+- [RMQ(SparseTable)](https://github.com/amami0522/amami_templates/blob/master/SparseTable.cpp)
