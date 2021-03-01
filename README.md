@@ -1,5 +1,5 @@
 # amami_template
-GitHubに慣れる練習を兼ねて競プロのテンプレートを作成しました
+個人的に使用している競技プログラミングのライブラリをまとめました。
 
 ## 一覧
 ### 数学
@@ -21,12 +21,17 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [二部グラフ判定](https://github.com/amami0522/amami_templates/blob/master/is_bipartite_graph.cpp)
 - [最小全域木(kruskal)](https://github.com/amami0522/amami_templates/blob/master/kruskal.cpp)
 - [最小全域木(prim)](https://github.com/amami0522/amami_templates/blob/master/prim.cpp)
+- [強連結成分分解](https://github.com/amami0522/amami_templates/blob/master/SCC.cpp)
+- [トポロジカルソート](https://github.com/amami0522/amami_templates/blob/master/topological_sort.cpp)
 ### 探索
 - [	bit全探索](https://github.com/amami0522/amami_templates/blob/master/bit_zenntannsaku.cpp)
 - [グリッドBFS](https://github.com/amami0522/amami_templates/blob/master/BFS(grid).cpp)
 - [DFS(深さ優先探索)](https://github.com/amami0522/amami_templates/blob/master/DFS.cpp)
 ### 集合
 - [	UnionFind](https://github.com/amami0522/amami_templates/blob/master/union_find.cpp)
+### フロー
+- [最大流(FordFulkerson)](https://github.com/amami0522/amami_templates/blob/master/FordFulkerson.cpp)
+- [最大流(Dinic)](https://github.com/amami0522/amami_templates/blob/master/Dinic.cpp)
 ### その他
 - [最長増加部分列(LIS)](https://github.com/amami0522/amami_templates/blob/master/LIS.cpp)
 - [最小共通祖先(LCA)](https://github.com/amami0522/amami_templates/blob/master/LCA.cpp)
@@ -34,3 +39,5 @@ GitHubに慣れる練習を兼ねて競プロのテンプレートを作成し�
 - [RSQ(Segment-Tree)](https://github.com/amami0522/amami_templates/blob/master/SegmentTree.cpp)
 - [木の直径](https://github.com/amami0522/amami_templates/blob/master/tree_diameter.cpp)
 - [RMQ(SparseTable)](https://github.com/amami0522/amami_templates/blob/master/SparseTable.cpp)
+- [行列演算](https://github.com/amami0522/amami_templates/blob/master/matrix.cpp)
+- [文字列分割](https://github.com/amami0522/amami_templates/blob/master/string_split.cpp)
